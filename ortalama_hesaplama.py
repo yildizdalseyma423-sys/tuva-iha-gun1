@@ -6,7 +6,8 @@ def liste_ortalamasi(sayilar):
 
 # Test:
 irtifalar = [100, 120, 115, 130, 125]
-print("Ortalama İrtifa:", liste_ortalamasi(irtifalar))def ortalama_analizi(sayilar):
+print("Ortalama İrtifa:", liste_ortalamasi(irtifalar))
+def ortalama_analizi(sayilar):
     if not sayilar:
         return None
 
