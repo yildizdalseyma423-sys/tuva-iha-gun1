@@ -10,3 +10,4 @@ def kelime_sayaci(metin):
 # Test:
 log_metni = "iha baglanti koptu baglanti hata"
 print("Kelime Frekansi:", kelime_sayaci(log_metni))
+print(kelime_sayaci("GPS hata GPS sinyal hata GPS"))
