@@ -11,3 +11,7 @@ def koordinat_mesafesi(baslangic, bitis):
 nokta_a = (0, 0)
 nokta_b = (3, 4)
 print("Mesafe:", koordinat_mesafesi(nokta_a, nokta_b))  # Çıktı: 5.0
+nokta_c = (1, 2)
+nokta_d = (4, 6)
+
+print("İkinci mesafe:", koordinat_mesafesi(nokta_c, nokta_d))
